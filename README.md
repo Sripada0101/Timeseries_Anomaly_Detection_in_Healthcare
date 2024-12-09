@@ -20,7 +20,7 @@ The results are benchmarked against other healthcare datasets to assess the mode
 
 ---
 
-## **Prject Files**
+## **Project Files**
 1. dataset : Contains ECG5000 dataset zip folder including all types of files(.txt,.csv,.arff etc.)
 2. images : Contains all images used
 3. report : Contains documentation on our project
